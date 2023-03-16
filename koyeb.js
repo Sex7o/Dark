@@ -7,9 +7,9 @@ RUN sudo dnf -y update &&\
 
 RUN git clone https://github.com/elrebelde21/NovaBot-MD
 
-WORKDIR /root/NovaBot-MD 
+WORKDIR /root/DarkBot-MD 
 
-COPY ./root/NovaBot-MD
+COPY ./root/DarkBot-MD
 
 RUN yarn install
 
