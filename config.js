@@ -3,7 +3,7 @@ import chalk from 'chalk'
 import { fileURLToPath } from 'url'
 
 global.owner = [
-  ['5492266466080', 'NovaBot-MD', true],
+  ['5492266466080', 'DarkBot-MD', true],
   ['593968585383'],
   ['5214531173598'],
   ['50763596565'],
@@ -53,8 +53,8 @@ global.imagen1 = ['./media/menu1.jpg']
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
 // Sticker WM
-global.packname = 'NovaBot-MD'
-global.author = 'NovaBot-MD'
+global.packname = 'DarkBot-MD'
+global.author = 'DarkBot-MD'
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
